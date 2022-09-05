@@ -1,2 +1,1 @@
-Idk why i made this 
-lol
+https://007drmax.github.io/2048-Mr.Incredible/

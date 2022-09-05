@@ -117,12 +117,12 @@ h1.title {
 .score-container:after {
   content: "Mr.Increble"; }
 .score-points:after {
-  content: "Points"; }
+  content: "Score"; }
 
 .best-container:after {
   content: "Mr.Increble Max"; }
 .best-points:after {
-	content: "Max Points"; }
+	content: "High Score"; }
 
 p {
   margin-top: 0;

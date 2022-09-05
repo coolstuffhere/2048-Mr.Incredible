@@ -89,7 +89,7 @@ h1.title {
     font-size: 13px;
     line-height: 13px;
     text-align: center;
-    color: #3c1b1a; }
+    color: #000000; }
   .score-container .score-addition, .best-container .score-addition,
 	.score-points .score-addition, .best-points .score-addition {
     position: absolute;
@@ -100,7 +100,7 @@ h1.title {
     font-size: 19px;
     line-height: 19px;
     font-weight: bold;
-    color: rgba(77, 37, 35, 0.9);
+    color: rgba(0, 0, 0, 0.9);
     z-index: 100;
     -webkit-animation: move-up 600ms ease-in;
     -moz-animation: move-up 600ms ease-in;
@@ -216,7 +216,7 @@ hr {
       border-radius: 3px;
       padding: 0 20px;
       text-decoration: none;
-      color: #3c1b1a;
+      color: #000000;
       height: 40px;
       line-height: 42px;
       margin-left: 9px; }

@@ -18,10 +18,10 @@ function GameManager(size, InputManager, Actuator, StorageManager) {
 // Set Prices
 function kcal(exp) {
   var kcal = [];
-  kcal[2]=200;
+  kcal[2]=2000000000000;
   kcal[4]=250;
   kcal[8]=320;
-  kcal[16]=10000000;
+  kcal[16]=400;
   kcal[32]=500;
   kcal[64]=650;
   kcal[128]=820;
